@@ -1,2 +1,6 @@
 class sample:
-	pass
+	def prgm(self):
+		print("Hello World")
+s=sample()
+s.prgm()
+
