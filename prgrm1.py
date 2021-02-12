@@ -3,4 +3,5 @@ class sample:
 		print("Hello World")
 s=sample()
 s.prgm()
+print ("Modified")
 
